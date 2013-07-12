@@ -3,10 +3,7 @@ require 'thread'
 
 $send_server="10.0.1.114"
 $send_port="7780"
-
-$recv_server="10.0.1.49"
 $recv_port="7780"
-
 
 $data_padding = ""
 
